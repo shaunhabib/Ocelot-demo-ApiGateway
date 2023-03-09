@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f799cfcb-c373-4a2d-aa66-a0f8252c4e25": {
+      "ProjectGuid": "f799cfcb-c373-4a2d-aa66-a0f8252c4e25",
+      "DisplayName": "Ocelot-demo-ApiGateway",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
